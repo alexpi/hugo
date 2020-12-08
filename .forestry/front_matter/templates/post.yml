@@ -8,5 +8,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- content/posts/my-first-post-1.md
