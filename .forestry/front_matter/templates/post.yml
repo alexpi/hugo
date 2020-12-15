@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
+- content/posts/let-me-see.md
 - content/posts/lorem-ip-sum.md
